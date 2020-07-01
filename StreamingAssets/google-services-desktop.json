@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52851647905",
+    "firebase_url": "https://primelivingapp.firebaseio.com",
+    "project_id": "primelivingapp",
+    "storage_bucket": "primelivingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52851647905:android:a9e80bdabc5ca6728b57e0",
+        "android_client_info": {
+          "package_name": "com.hellovorld.prime_living.primelivingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52851647905-83jqber7thvubloftjdp96546362mpvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellovorld.prime_living.primelivingapp",
+            "certificate_hash": "26502083ea15f0dc4d8ffc72253b009e23bae50a"
+          }
+        },
+        {
+          "client_id": "52851647905-i3kd5is166abegu68vo2hhjs25a9eavj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IIwuNDwdLa4Z-EIVFYdSuRWhrhdlrj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52851647905-i3kd5is166abegu68vo2hhjs25a9eavj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

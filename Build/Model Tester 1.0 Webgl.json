@@ -1,0 +1,16 @@
+{
+"companyName": "hellovorld",
+"productName": "Model Tester",
+"productVersion": "1.0",
+"dataUrl": "Model Tester 1.0 Webgl.data.unityweb",
+"wasmCodeUrl": "Model Tester 1.0 Webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Model Tester 1.0 Webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1F1F1F",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
